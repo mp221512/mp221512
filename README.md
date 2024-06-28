@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @mp221512
 - Hi, I'm Benjamin Schober, Master's student at UAS St. Pölten for Digital Media Production, specializing on Sound.
 - Throughout my course of studies I've done a few projects, all touching different areas of Audio production. DIY-Loudspeaker projects, interactive applications with MAX, 3D-audio production in Dolby Atmos and HOA.
 - In my master's thesis, I'm comparing plausibility of virtual sound sources for auditory augmented reality between different headphone types.
